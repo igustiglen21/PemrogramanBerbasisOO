@@ -3,17 +3,17 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package pbo3.pkg10117088.latihan11.formatting;
+package pbo3.pkg10117099.latihan11.formatting;
 
 /**
  *
  * @author
- * NAMA         : Rio Yudha Pratama
+ * NAMA         : I Gusti Glen
  * KELAS        : IF-3
- * NIM          : 10117088
+ * NIM          : 10117099
  * Deklarasi    : Program ini menunjukan cara formatt penulisan 
  */
-public class PBO310117088Latihan11Formatting {
+public class PBO310117099Latihan11Formatting {
 
     /**
      * @param args the command line arguments
